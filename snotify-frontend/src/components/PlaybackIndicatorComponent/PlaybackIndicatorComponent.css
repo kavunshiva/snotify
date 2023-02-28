@@ -1,0 +1,10 @@
+#progress-container {
+  width: 100%;
+  background-color: lightgrey;
+}
+
+#progress-bar {
+  width: 1%;
+  height: 30px;
+  background-color: grey;
+}
